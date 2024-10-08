@@ -1,2 +1,2 @@
 # useReducerBankApp
-Created with CodeSandbox
+Tricky challange to understand how to use the useReducer hook
